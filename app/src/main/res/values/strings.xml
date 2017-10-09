@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UD834Lesson5</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="logo">Logo</string>
+    <string name="description">Welcome to the next chapter in data storage. Welcome to Space Saver by Pied Piper. </string>
+    <string name="url_label">Visit us on: \s</string>
+    <string name="url">http://www.piedpiper.com/</string>
+</resources>
